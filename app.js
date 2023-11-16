@@ -1,2 +1,3 @@
 console.log("hello")
-console.log("Hi all")
+console.log(2+2)
+console.log("hi")
